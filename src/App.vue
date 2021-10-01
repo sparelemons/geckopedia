@@ -1,32 +1,29 @@
 <template>
   <div id="app">
-    <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
-    </div>
     <router-view />
   </div>
 </template>
 
-<style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-}
+<script>
+import AOS from 'aos'
+import { focusHandling } from 'cruip-js-toolkit'
 
-#nav {
-  padding: 30px;
+export default {
+  name: 'App',
+  mounted() {
+    AOS.init({
+      once: true,
+      disable: 'phone',
+      duration: 750,
+      easing: 'ease-out-quart',
+    })
+    focusHandling()
+    // Route change
+    if (this.$router) {
+      this.$watch('$route', () => {
+        focusHandling('outline')
+      });
+    }    
+  }  
 }
-
-#nav a {
-  font-weight: bold;
-  color: #2c3e50;
-}
-
-#nav a.router-link-exact-active {
-  color: #42b983;
-}
-</style>
+</script>
