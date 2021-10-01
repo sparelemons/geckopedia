@@ -37,7 +37,7 @@
               </li>
             </ul>
             <p class="mt-8" data-aos="fade-down">
-              <a href="#" target="_blank" onclick="firebase.analytics().logEvent('app_store_download_button')">
+              <a href="http://itunes.apple.com/us/app/geckopedia/id1587862765" target="_blank" onclick="firebase.analytics().logEvent('app_store_download_button')">
                 <img :src="require('@/images/download-button-white.svg')" width="200" alt="Geckopedia" aria-hidden="true" />
               </a>
             </p>
