@@ -49,6 +49,11 @@
               <p class="text-xl text-gray-600 dark:text-gray-400">
                 Because I like the geckos! 🦎 And I like the GGSG community!
               </p>
+              <p class="text-xl text-gray-600 dark:text-gray-400">
+                That said, if you would like to leave a tip (maybe even a gecko?), I would greatly appreciate it!
+                <br />
+                SOL Address: 7xf64io1u8sm6beax1MQwpUp93b4CRFc8XKta5spYTMo
+              </p>
             </div>
 
             <div class="max-w-3xl pt-8 md:pt-6" data-aos="fade-down">
