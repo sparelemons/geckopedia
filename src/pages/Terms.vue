@@ -101,10 +101,10 @@
 
             <div class="max-w-3xl pt-8 md:pt-6" data-aos="fade-down">
               <h4 class="h4">Contact Us</h4>
-              <p class="text-xl text-gray-600 dark:text-gray-400 pb-4">
+              <!-- <p class="text-xl text-gray-600 dark:text-gray-400 pb-4">
                 If you have any questions or suggestions about our Terms and Conditions, do not hesitate
                 to contact us at <a :href="composeAddy()" target="_blank" class="text-gray-600 dark:text-gray-400 hover:underline transition duration-150 ease-in-out">{{ composeLabel() }}</a>.
-              </p>
+              </p> -->
             </div>
 
 
