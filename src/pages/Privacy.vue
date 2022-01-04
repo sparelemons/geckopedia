@@ -21,8 +21,8 @@
 
             <div class="max-w-3xl" data-aos="fade-down">
               <p class="text-xl text-gray-600 dark:text-gray-400 pb-4">
-                Spare Lemons built the Geckopedia app as a free app.
-                This service is provided by Spare Lemons at no cost and is intended for use as is.
+                We built the Geckopedia app as a free app.
+                This service is provided by us at no cost and is intended for use as is.
                 This page is used to inform visitors regarding our policies with the collection, use, and
                 disclosure of Personal Information if anyone decided to use our Service.
               </p>
@@ -34,7 +34,7 @@
               </p>
               <p class="text-xl text-gray-600 dark:text-gray-400">
                 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions,
-                which is accessible at Spare Lemons unless otherwise defined in this Privacy Policy.
+                which is accessible unless otherwise defined in this Privacy Policy.
               </p>
             </div>
 
