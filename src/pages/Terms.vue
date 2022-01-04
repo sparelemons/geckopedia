@@ -28,11 +28,11 @@
                 to attempt to extract the source code of the app, and you also shouldn’t try to translate
                 the app into other languages, or make derivative versions. The app itself, and all the trade
                 marks, copyright, database rights and other intellectual property rights related to it,
-                still belong to Spare Lemons.
+                still belong to us.
               </p>
 
               <p class="text-xl text-gray-600 dark:text-gray-400 pb-4">
-                Spare Lemons is committed to ensuring that the app is as useful and efficient as possible.
+                We are committed to ensuring that the app is as useful and efficient as possible.
                 For that reason, we reserve the right to make changes to the app or to charge for its
                 services, at any time and for any reason. We will never charge you for the app or its
                 services without making it very clear to you exactly what you’re paying for.
@@ -44,9 +44,9 @@
               </p>
 
               <p class="text-xl text-gray-600 dark:text-gray-400 pb-4">
-                You should be aware that there are certain things that Spare Lemons will not take responsibility for.
+                You should be aware that there are certain things that we will not take responsibility for.
                 Certain functions of the app will require the app to have an active internet connection.
-                The connection can be Wi-Fi, or provided by your mobile network provider, but Spare Lemons
+                The connection can be Wi-Fi, or provided by your mobile network provider, but we
                 cannot take responsibility for the app not working at full functionality if you don’t have
                 access to Wi-Fi, and you don’t have any of your data allowance left.
               </p>
@@ -63,16 +63,16 @@
               </p>
 
               <p class="text-xl text-gray-600 dark:text-gray-400 pb-4">
-                Along the same lines, Spare Lemons cannot always take responsibility for the way you use the app
+                Along the same lines, we cannot always take responsibility for the way you use the app
                 i.e. You need to make sure that your device stays charged – if it runs out of battery and you
-                can’t turn it on to avail the Service, Spare Lemons cannot accept responsibility.
+                can’t turn it on to avail the Service, we cannot accept responsibility.
               </p>
 
               <p class="text-xl text-gray-600 dark:text-gray-400 pb-4">
-                With respect to Spare Lemons’s responsibility for your use of the app, when you’re using the
+                With respect to our responsibility for your use of the app, when you’re using the
                 app, it’s important to bear in mind that although we endeavour to ensure that it is updated
                 and correct at all times, we do rely on third parties to provide information to us so that we
-                can make it available to you. Spare Lemons accepts no liability for any loss, direct or indirect,
+                can make it available to you. We accepts no liability for any loss, direct or indirect,
                 you experience as a result of relying wholly on this functionality of the app.
               </p>
 
