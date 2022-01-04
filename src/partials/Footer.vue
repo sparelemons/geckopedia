@@ -41,7 +41,7 @@
           </div>
 
           <!-- Copyrights note -->
-          <div class="text-gray-600 dark:text-gray-400 text-sm mr-4">&copy; 2021 Spare Lemons. All rights reserved.</div>
+          <div class="text-gray-600 dark:text-gray-400 text-sm mr-4">&copy; 2021. All rights reserved.</div>
 
         </div>
 
