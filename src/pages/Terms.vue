@@ -78,7 +78,7 @@
 
               <p class="text-xl text-gray-600 dark:text-gray-400 pb-4">
                 At some point, we may wish to update the app. The app is currently available on iOS – and you’ll
-                need to download the updates if you want to keep using the app. Spare Lemons does not promise
+                need to download the updates if you want to keep using the app. We do not promise
                 that it will always update the app so that it is
                 relevant to you and/or works with the iOS version that you have installed on your device.
                 However, you promise to always accept updates to the application when offered to you. We may
